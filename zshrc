@@ -37,3 +37,4 @@ export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"
 eval "$(rbenv init -)"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
 export RUBYOPT='-W:no-deprecated -W:no-experimental'
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"

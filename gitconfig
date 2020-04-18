@@ -48,7 +48,7 @@
   mergeoptions = --no-edit
 [user]
 	email = matthieu.besancon@gmail.com
-	name = Matthieu Besan�con
+	name = Matthieu Besancon
 [filter "lfs"]
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process

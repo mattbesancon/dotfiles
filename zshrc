@@ -47,3 +47,4 @@ if [ -f '/Users/matthieubesancon/code/mattbesancon/socialapp-functions/y/google-
 # The next line enables shell command completion for gcloud.
 if [ -f '/Users/matthieubesancon/code/mattbesancon/socialapp-functions/y/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/matthieubesancon/code/mattbesancon/socialapp-functions/y/google-cloud-sdk/completion.zsh.inc'; fi
 
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
